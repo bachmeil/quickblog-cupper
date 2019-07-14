@@ -1,4 +1,4 @@
 #! /bin/bash
 BROWSER=firefox
-allposts
+./allposts
 $BROWSER index.html
