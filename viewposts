@@ -1,0 +1,4 @@
+#! /bin/bash
+BROWSER=firefox
+allposts
+$BROWSER index.html
