@@ -8,3 +8,6 @@ theme of quickblog with the cupper theme from Hugo. To use it:
 
 You need to customize the sidebar menu for this theme. You do that by
 editing the array at the top of the menu.js file in the js directory.
+
+I run these scripts locally, so the install script doesn't actually do
+anything other than make the scripts executable.
